@@ -1,2 +1,2 @@
 # flipkart
-ita an online shopping
+its an online shopping
